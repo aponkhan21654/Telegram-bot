@@ -1,7 +1,0 @@
-telethon
-aiohttp
-beautifulsoup4
-pycountry
-brotli
-cryptg 
-asyncio
